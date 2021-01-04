@@ -1,5 +1,5 @@
 {
-    "name": "Nextcloud Backup",
+    "name": "Nextcloud Backup DEV",
     "version": "dev",
     "slug": "nextcloud_backup",
     "description": "Hass.io snapshot backup to Nextcloud",
